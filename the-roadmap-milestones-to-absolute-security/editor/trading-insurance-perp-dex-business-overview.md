@@ -1,8 +1,8 @@
 ---
 description: >-
   Trading Insurance is a decentralized protection platform engineered for
-  traders engaging in perpetual futures (perps) on Hyperliquid—the
-  industry-leading Perp-DEX ecosystem.
+  traders engaging in perpetual futures (perps) on Hyperliquid. The industry
+  leading Perp DEX ecosystem.
 ---
 
 # Trading Insurance (Perp-DEX) — Business Overview

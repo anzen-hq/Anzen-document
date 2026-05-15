@@ -11,7 +11,7 @@
 * [The Vision: Protecting the Trillion-Dollar Frontier](the-vision-protecting-the-trillion-dollar-frontier.md)
 * [The Technical Bedrock: Circle’s Arc Network](the-technical-bedrock-circles-arc-network/README.md)
   * [The Malachite Consensus Engine](the-technical-bedrock-circles-arc-network/the-malachite-consensus-engine.md)
-  * [USDC-Native Gas and Stable Fee Architecture](the-technical-bedrock-circles-arc-network/usdc-native-gas-and-stable-fee-architecture.md)
+  * [USDC Native Gas and Stable Fee Architecture](the-technical-bedrock-circles-arc-network/usdc-native-gas-and-stable-fee-architecture.md)
   * [Confidentiality and Post-Quantum Security](the-technical-bedrock-circles-arc-network/confidentiality-and-post-quantum-security.md)
 
 ## The Roadmap: Milestones to Absolute Security
@@ -37,6 +37,7 @@
 * [Pillar 4: Fair Insurance for the Entire Project File](the-roadmap-milestones-to-absolute-security/pillar-4-fair-insurance-for-the-entire-project-file.md)
 * [Pillar 5: The Engine: Active AI Insurance Agents](the-roadmap-milestones-to-absolute-security/pillar-5-the-engine-active-ai-insurance-agents.md)
 * [Revenue & Payout model](the-roadmap-milestones-to-absolute-security/revenue-and-payout-model.md)
+* [User Policy States](the-roadmap-milestones-to-absolute-security/user-policy-states.md)
 
 ## The Future: Perfecting the Privacy Bridge and DEX
 
