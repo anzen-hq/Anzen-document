@@ -14,17 +14,16 @@
   * [USDC-Native Gas and Stable Fee Architecture](the-technical-bedrock-circles-arc-network/usdc-native-gas-and-stable-fee-architecture.md)
   * [Confidentiality and Post-Quantum Security](the-technical-bedrock-circles-arc-network/confidentiality-and-post-quantum-security.md)
 
-## &#x20;The Roadmap: Milestones to Absolute Security
+## The Roadmap: Milestones to Absolute Security
 
 * [Pillar 1: PerpDEX Futures Protection](the-roadmap-milestones-to-absolute-security/editor/README.md)
   * [Trading Insurance (Perp-DEX) — Business Overview](the-roadmap-milestones-to-absolute-security/editor/trading-insurance-perp-dex-business-overview.md)
-  * [Revenue & Payout Model](the-roadmap-milestones-to-absolute-security/editor/revenue-and-payout-model.md)
   * [User Experience (UX) Flow](the-roadmap-milestones-to-absolute-security/editor/user-experience-ux-flow.md)
   * [Compensation Requirements (Business Logic)](the-roadmap-milestones-to-absolute-security/editor/compensation-requirements-business-logic.md)
   * [Shared Risk Mechanism](the-roadmap-milestones-to-absolute-security/editor/shared-risk-mechanism.md)
   * [Policy States (Backend Logic)](the-roadmap-milestones-to-absolute-security/editor/policy-states-backend-logic.md)
   * [FAQ & Disclaimer](the-roadmap-milestones-to-absolute-security/editor/faq-and-disclaimer.md)
-* [Pillar 2:  DEX, Stake, and LP Coverage (The "Drift" Lesson)](the-roadmap-milestones-to-absolute-security/markdown.md)
+* [Pillar 2: DEX, Stake, and LP Coverage (The "Drift" Lesson)](the-roadmap-milestones-to-absolute-security/markdown.md)
 * [Pillar 3: Prediction Market Revolution](the-roadmap-milestones-to-absolute-security/images-and-media/README.md)
   * [Conceptual Foundation and Product Definition](the-roadmap-milestones-to-absolute-security/images-and-media/conceptual-foundation-and-product-definition.md)
   * [Practical Scenario and Operational Logic](the-roadmap-milestones-to-absolute-security/images-and-media/practical-scenario-and-operational-logic.md)
@@ -37,6 +36,7 @@
   * [Operational Metrics and Key Performance Indicators (KPIs)](the-roadmap-milestones-to-absolute-security/images-and-media/operational-metrics-and-key-performance-indicators-kpis.md)
 * [Pillar 4: Fair Insurance for the Entire Project File](the-roadmap-milestones-to-absolute-security/pillar-4-fair-insurance-for-the-entire-project-file.md)
 * [Pillar 5: The Engine: Active AI Insurance Agents](the-roadmap-milestones-to-absolute-security/pillar-5-the-engine-active-ai-insurance-agents.md)
+* [Revenue & Payout model](the-roadmap-milestones-to-absolute-security/revenue-and-payout-model.md)
 
 ## The Future: Perfecting the Privacy Bridge and DEX
 
