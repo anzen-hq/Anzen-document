@@ -6,6 +6,6 @@ Its primary objective is to offer downside protection for traders who assume `"N
 
 <kbd>In these markets, the outcome of a football match is categorized into three distinct possibilities: a win for Team A, a win for Team B, or a draw.</kbd>
 
-The product's nomenclature, <kbd><mark style="color:$danger;">"Double Bet"<mark style="color:$danger;"></kbd> is a direct reference to a popular wagering strategy in traditional sports betting where a single bet covers two out of three possible match outcomes. Anzen translates this concept into the blockchain-native environment of Polymarket through the insurance of `"NO"` shares.
+The product's nomenclature, <kbd><mark style="color:$danger;">"Position protection"<mark style="color:$danger;"></kbd> is a direct reference to a popular wagering strategy in traditional sports betting where a single bet covers two out of three possible match outcomes. Anzen translates this concept into the blockchain-native environment of Polymarket through the insurance of `"NO"` shares.
 
 ####

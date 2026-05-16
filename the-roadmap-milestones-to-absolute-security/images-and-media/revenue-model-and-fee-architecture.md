@@ -16,10 +16,10 @@ The fees are structured to decrease linearly as the `"NO"` share price increases
 
 #### VIP Incentives and Dynamic Pricing
 
-Holders of the <kbd><mark style="color:yellow;">Anzen VIP Pass<mark style="color:yellow;"></kbd> receive significant cost advantages. <kbd><mark style="color:yellow;">`VIP users`<mark style="color:yellow;"></kbd> benefit from a flat reduction of 2.5 percentage points compared to the non-VIP schedule. For example, if a standard user pays a 15% premium, a <kbd><mark style="color:yellow;">`VIP user`<mark style="color:yellow;"></kbd> would only pay 12.5%.
+Holders of the <kbd><mark style="color:yellow;">Anzen VIP Pass<mark style="color:yellow;"></kbd> receive significant cost advantages. <kbd><mark style="color:yellow;">VIP users<mark style="color:yellow;"></kbd> benefit from a flat reduction of 2.5 percentage points compared to the non-VIP schedule. For example, if a standard user pays a 15% premium, a <kbd><mark style="color:yellow;">VIP user<mark style="color:yellow;"></kbd> would only pay 12.5%.
 
 Furthermore, the protocol implements a dynamic <kbd>"in-game"</kbd> surcharge to account for increasing certainty as the match progresses:
 
 * **15th to 45th Minute:** Non-VIP users must pay an additional +2.5% surcharge on top of their base fee.
-* **VIP Exemption:** <kbd><mark style="color:yellow;">`VIP Pass`<mark style="color:yellow;"></kbd> holders are entirely exempt from this in-game surcharge, allowing them to hedge later in the first half at the base rate.
+* **VIP Exemption:** <kbd><mark style="color:yellow;">VIP Pass<mark style="color:yellow;"></kbd> holders are entirely exempt from this in-game surcharge, allowing them to hedge later in the first half at the base rate.
 * **Halftime Closing:** At the 45th minute, the portal for purchasing insurance closes for all users.

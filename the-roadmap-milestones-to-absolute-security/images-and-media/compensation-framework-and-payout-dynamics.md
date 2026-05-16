@@ -13,7 +13,7 @@ In a standard match where the insured event occurs (the team loses), the compens
 
 #### Black Swan Event Payouts
 
-For events characterized by extreme unpredictability, <kbd><mark style="color:yellow;">`VIP Pass`<mark style="color:yellow;"></kbd> holders receive significantly elevated coverage ceilings, whereas non-VIP coverage remains unchanged
+For events characterized by extreme unpredictability, <kbd><mark style="color:yellow;">VIP Pass<mark style="color:yellow;"></kbd> holders receive significantly elevated coverage ceilings, whereas non-VIP coverage remains unchanged
 
 | **User Status** | **Tier 1 (Premium) Max Payout** | **Tier 2 (Lite) Max Payout** |
 | --------------- | ------------------------------- | ---------------------------- |
@@ -22,5 +22,5 @@ For events characterized by extreme unpredictability, <kbd><mark style="color:ye
 
 To trigger a <kbd>"Black Swan"</kbd> classification, two conditions must be met concurrently:
 
-1. **Prerequisite:** The <kbd>`"NO"`</kbd> share price of the losing side must have been $ > 0.75 $ at halftime. This metric indicates that the team was a heavy favorite to win or draw at the midpoint, making an eventual loss statistically **"surprising."**
+1. **Prerequisite:** The <kbd>"NO"</kbd> share price of the losing side must have been $ > 0.75 $ at halftime. This metric indicates that the team was a heavy favorite to win or draw at the midpoint, making an eventual loss statistically **"surprising."**
 2. **Qualitative Trigger:** The match must involve a specific extraordinary event, such as a first-half red card combined with a penalty, a "come-from-behind" victory occurring in the 90th minute or later, or a decisive own goal. These triggers require manual confirmation by the protocol administrator before the Black Swan payouts are authorized.

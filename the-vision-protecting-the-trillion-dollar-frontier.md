@@ -12,7 +12,7 @@ The primary barrier to this massive capital inflow is Unquantifiable Risk.
 
 Anzen Protocol’s vision is to maximize this market by providing the first comprehensive Insurance-as-a-Service layer. We don't just protect users/ defi eco from hacks; we ensure the utility of their capital, transforming DeFi from a "gamble" into a "guaranteed" institutional settlement rail.&#x20;
 
-<kbd><mark style="color:$success;">**`We don't just protect users from hacks; we insure the`**<mark style="color:$success;"></kbd><kbd><mark style="color:$success;">**` `**<mark style="color:$success;"></kbd><kbd>_<mark style="color:$success;">**`utility`**</mark>_</kbd><kbd><mark style="color:$success;">**` `**<mark style="color:$success;"></kbd><kbd><mark style="color:$success;">**`of their capital, allowing the DeFi revolution to finally capture the "Internet Financial System`**<mark style="color:$success;"></kbd>
+<kbd><mark style="color:$success;">**We don't just protect users from hacks; we insure the**<mark style="color:$success;"></kbd><kbd><mark style="color:$success;">**&#x20;**<mark style="color:$success;"></kbd><kbd>_<mark style="color:$success;">**utility**</mark>_</kbd><kbd><mark style="color:$success;">**&#x20;**<mark style="color:$success;"></kbd><kbd><mark style="color:$success;">**of their capital, allowing the DeFi revolution to finally capture the "Internet Financial System**<mark style="color:$success;"></kbd>
 
 <br>
 

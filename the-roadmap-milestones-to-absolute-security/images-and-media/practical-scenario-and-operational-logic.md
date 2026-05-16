@@ -5,9 +5,9 @@ Consider a trader who believes that Real Madrid will not lose their upcoming mat
 * `If Real Madrid wins or the match ends in a draw, the "NO" shares settle at $1.00, resulting in a profit for the trader.`
 * `If Bayern Munich wins, the "NO" shares settle at $0.00, representing a total loss of the initial investment.`
 
-<kbd><mark style="color:$danger;">`Anzen Double Bet`<mark style="color:$danger;"></kbd> intervenes in the event of the <mark style="color:$danger;">`"worst-case scenario"`</mark>—the victory of Bayern Munich. By purchasing insurance, the trader ensures that the Anzen Protocol will compensate a portion of their losses if the team they bet against (Bayern) actually wins.&#x20;
+<kbd><mark style="color:$danger;">Anzen Position Protection intervenes<mark style="color:$danger;"></kbd> in the event of the <mark style="color:$danger;">`"worst-case scenario"`</mark>—the victory of Bayern Munich. By purchasing insurance, the trader ensures that the Anzen Protocol will compensate a portion of their losses if the team they bet against (Bayern) actually wins.&#x20;
 
-Consequently, the user is effectively **"protected"** across two scenarios (a win or a draw for their preferred team), mimicking the traditional <kbd><mark style="color:$danger;">"Double Bet"<mark style="color:$danger;"></kbd> effect.
+Consequently, the user is effectively **"protected"** across two scenarios (a win or a draw for their preferred team), mimicking the traditional <kbd><mark style="color:$danger;">"Position Protection"<mark style="color:$danger;"></kbd> effect.
 
 #### Specificity of the Insurance Product
 

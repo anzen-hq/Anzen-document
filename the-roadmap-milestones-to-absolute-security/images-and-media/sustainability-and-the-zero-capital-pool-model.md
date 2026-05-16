@@ -1,6 +1,6 @@
 # Sustainability and the Zero-Capital Pool Model
 
-A defining characteristic of <kbd><mark style="color:$danger;">Anzen Double Bet<mark style="color:$danger;"></kbd>'s first phase is its <kbd>`"Zero Capital"`</kbd> approach. The protocol does not contribute its own liquidity to the compensation pools. Instead, the pool for any given match is strictly limited to the total premiums collected from all users who purchased insurance for that match.
+A defining characteristic of <kbd><mark style="color:$danger;">Anzen Position Protection<mark style="color:$danger;"></kbd>'s first phase is its <kbd>"Zero Capital"</kbd> approach. The protocol does not contribute its own liquidity to the compensation pools. Instead, the pool for any given match is strictly limited to the total premiums collected from all users who purchased insurance for that match.
 
 #### The Payout Pool Composition
 
@@ -13,8 +13,8 @@ In future phases (Phase 2), the protocol intends to implement <kbd><mark style="
 In scenarios where the total valid claims for compensation exceed the available funds in the match pool, the system employs a three-step priority distribution known as the "Waterfall".
 
 * **Step 1:** Pro-rata Distribution by `Position Size` .All users who suffered a loss are initially allocated a share of the pool proportional to their original position size. If a user’s calculated share exceeds their maximum payout ceiling (e.g., 55% for Tier 1), they receive only the amount up to that ceiling. Any remaining funds from their pro-rata allocation are returned to the pool for the next step.
-* **Step 2:** <kbd><mark style="color:yellow;">VIP Priority Allocation<mark style="color:yellow;"></kbd> If funds remain after Step 1, they are distributed exclusively to <kbd><mark style="color:yellow;">`VIP Pass`<mark style="color:yellow;"></kbd> holders who have "burned" their pass for that specific match. This ensures that <kbd><mark style="color:yellow;">`VIPs`<mark style="color:yellow;"></kbd> have the first claim on residual funds to help them reach their compensation ceilings.
-* **Step 3:** Non-VIP Residual Allocation Any funds remaining after the <kbd><mark style="color:yellow;">`VIPs`<mark style="color:yellow;"></kbd> have been fully satisfied (or have reached their ceilings) are then shared among the non-VIP users until the pool is exhausted.
+* **Step 2:** <kbd><mark style="color:yellow;">VIP Priority Allocation<mark style="color:yellow;"></kbd> If funds remain after Step 1, they are distributed exclusively to <kbd><mark style="color:yellow;">VIP Pass<mark style="color:yellow;"></kbd> holders who have "burned" their pass for that specific match. This ensures that <kbd><mark style="color:yellow;">VIPs<mark style="color:yellow;"></kbd> have the first claim on residual funds to help them reach their compensation ceilings.
+* **Step 3:** Non-VIP Residual Allocation Any funds remaining after the <kbd><mark style="color:yellow;">VIPs<mark style="color:yellow;"></kbd> have been fully satisfied (or have reached their ceilings) are then shared among the non-VIP users until the pool is exhausted.
 
 #### Analysis of a Waterfall Test Case
 
@@ -38,7 +38,7 @@ The total position value of all losers is 300 USDC. The pool of 200 USDC is dist
 
 **Stage 2 Distribution:**
 
-The pool has a remaining balance of  6.67 + 6.67 = 13.33 $ USDC. Since the <kbd><mark style="color:yellow;">`VIP users`<mark style="color:yellow;"></kbd> have already reached their maximum ceilings in Stage 1, this step is skipped.
+The pool has a remaining balance of  6.67 + 6.67 = 13.33 $ USDC. Since the <kbd><mark style="color:yellow;">VIP users<mark style="color:yellow;"></kbd> have already reached their maximum ceilings in Stage 1, this step is skipped.
 
 **Stage 3 Distribution:**
 
@@ -71,7 +71,7 @@ The <kbd><mark style="color:yellow;">VIP Pass<mark style="color:yellow;"></kbd> 
 
 #### Pricing and the "Extra Life" Repurchase
 
-<kbd><mark style="color:yellow;">`VIP Passes`<mark style="color:yellow;"></kbd> are sold on-chain with pricing that increases as the tournament progresses to reflect the higher stakes.
+<kbd><mark style="color:yellow;">VIP Passes<mark style="color:yellow;"></kbd> are sold on-chain with pricing that increases as the tournament progresses to reflect the higher stakes.
 
 | **Tournament Round** | **VIP Pass Price (USDC)** | **"Extra Life" Price** |
 | -------------------- | ------------------------- | ---------------------- |
@@ -85,7 +85,7 @@ After burning a pass, the user can purchase an **"Extra Life"** for 50% of the o
 
 #### The Cashback Mechanism
 
-To incentivize participation and lower the risk of entering the <kbd><mark style="color:yellow;">`VIP tier`<mark style="color:yellow;"></kbd>, Anzen offers an 80% cashback on the VIP Pass price if the user does not burn the pass during the entire round.&#x20;
+To incentivize participation and lower the risk of entering the <kbd><mark style="color:yellow;">VIP tier<mark style="color:yellow;"></kbd>, Anzen offers an 80% cashback on the VIP Pass price if the user does not burn the pass during the entire round.&#x20;
 
 For example, **`if a user buys a $200 pass and their teams never lose, they receive $160 back at the end of the round. This mechanism effectively means the "cost of safety" for a lucky user is only 20% of the pass price.`**
 
